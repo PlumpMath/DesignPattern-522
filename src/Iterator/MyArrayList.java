@@ -12,7 +12,7 @@ public class MyArrayList<T> implements Aggregate<T>,Iterable<T>{
     public MyArrayList() {
         head = null;
     }
-    //‰Â•Ï’·ˆø”‚Å•¡”“o˜^
+
     public MyArrayList(T ... arg) {
         this();
         for(T items : arg) {

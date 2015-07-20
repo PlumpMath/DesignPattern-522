@@ -3,8 +3,8 @@ package Adaptor;
 import java.io.IOException;
 
 /**
- * Adaptorパターン
- * 参考:http://qiita.com/jonichonpa/items/b7b68dca41ed5eac8bbb
+ * Adaptor繝代ち繝ｼ繝ｳ
+ * 蜿り�:http://qiita.com/jonichonpa/items/b7b68dca41ed5eac8bbb
  */
 
 /**
